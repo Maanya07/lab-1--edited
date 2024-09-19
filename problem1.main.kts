@@ -1,4 +1,4 @@
-//This is code to calculate perfect squares
+//Calculating perfect squares
 
 
 fun perfectSquare(x: Int): Int {
@@ -6,7 +6,7 @@ fun perfectSquare(x: Int): Int {
 }
 
 fun main() {
-    // Test the perfectSquare function with different inputs
+    // testing the function
     println("The perfect square of 1 is: ${perfectSquare(1)}")
     println("The perfect square of 2 is: ${perfectSquare(2)}")
     println("The perfect square of 3 is: ${perfectSquare(3)}")
